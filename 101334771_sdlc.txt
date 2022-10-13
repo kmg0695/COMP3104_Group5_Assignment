@@ -1,1 +1,5 @@
-What I think about the importance of learning DevOps engineer in software development cycle
+What I think about the importance of learning DevOps in software development cycle
+
+DevOps is important for the smooth development process of software development. DevOps is responsible for automation of deployment processes to streamline development.
+
+It also helps in debugging too.
