@@ -1,1 +1,2 @@
 SDLC - Software Development Life Cycle 
+SDLC is about Conceptual model used in project management
