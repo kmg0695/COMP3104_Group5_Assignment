@@ -1,2 +1,3 @@
 DevOps is the combination of two words Development  and Operations.
-It is taught by Prof Priteshkumar Patel in room E435 from 6PM -9PM
+It is taught by Prof Priteshkumar Patel in room E435 from 6PM -9PM. 
+GITHUB , Git bash , Travis CI , Heroku will be used in this class througouth the sem 
