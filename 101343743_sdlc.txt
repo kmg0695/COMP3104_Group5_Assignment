@@ -1,1 +1,2 @@
 Devops Engineer plays an important role as it mantains the balance through the lifcycle of the projec from coding to deployment along with maintenance and updates.
+Devops Engineer needs to be really proficient in problem solving along with team worka and handling the other team members.
