@@ -1,0 +1,5 @@
+What I think about DevOps
+
+I think that DevOps is a crucial part of software development. 
+
+DevOps makes software development as easy as possible for the dev team. It also makes deployments and modifications of code to development systems seamless.
