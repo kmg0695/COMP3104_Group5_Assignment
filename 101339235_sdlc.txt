@@ -1,0 +1,16 @@
+SDLC is an abbreviation for Software Development Life Cycle
+
+SDLC:
+- Planning
+- Analysis
+- Design
+- Implementation
+- Testing & Integration
+- Maintenance
+
+DevOps Importance:
+- enables faster development of new deployments
+- easier maintenance for existing deployments
+- the time for development cycles are reduced
+- innovation is at a faster rate
+- can cut development time by months, weeks, or days

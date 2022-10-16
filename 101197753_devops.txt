@@ -1,0 +1,4 @@
+DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
+
+
+ArchOps presents an extension for DevOps practice, starting from software architecture artifacts, instead of source code, for operation deployment.[20] ArchOps states that architectural models are first-class entities in software development, deployment, and operations.

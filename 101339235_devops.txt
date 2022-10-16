@@ -1,0 +1,21 @@
+Course: DevOps
+
+Code: COMP3104
+
+Professor: Pritesh Patel
+
+Topics & Information:
+- Intro, BASH & The CLI
+- Git, GitHub & more BASH
+- Version Control for DevOps
+- Developer Operations Landscape
+- Hosting High Geared Single Page
+Application & Work tracking tools
+- Continuous Integration /
+Continuous Deployment
+- CI/CD Pipeline Sequences
+- Working with Cloud Infrastructure
+- Automating DevOps & Quality Assurance
+- DevOps Assembly Lines
+- Commonly Used DevOps Tech Exposed
+- Transitioning into the role of DevOps
