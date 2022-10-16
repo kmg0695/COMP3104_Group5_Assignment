@@ -2,8 +2,14 @@
 
 ## Members
 
-1 - Omar Nabi
-2 - Kym Gripal
-3 - Mustafa Izci
-4 - Arshpreet Kaur
-5 - Reyansh Srivastava
+- Omar Nabi
+- Kym Gripal
+- Mustafa Izci
+- Arshpreet Kaur
+- Reyansh Srivastava
+
+## Files
+
+- 101339235_gb.txt
+- 101339235_devops.txt
+- 101339235_sdlc.txt
